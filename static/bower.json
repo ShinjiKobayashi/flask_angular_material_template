@@ -1,0 +1,23 @@
+{
+  "name": "template",
+  "authors": [
+    "kobashin <ragecolor.5884@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "angular-material": "~0.11.4",
+    "angular-route": "~1.4.7"
+  }
+}
